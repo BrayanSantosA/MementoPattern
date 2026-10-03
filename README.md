@@ -1,4 +1,8 @@
 # Taller patrón memento
+
+## Salida en pantalla
+<img width="537" height="140" alt="image" src="https://github.com/user-attachments/assets/19e89ef2-d21e-4937-94e0-35444d5c96a8" />
+
 ## Diagrama UML
 
 ```mermaid
