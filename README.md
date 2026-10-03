@@ -1,4 +1,4 @@
-# Taller patron memento
+# Taller patrón memento
 ## Diagrama UML
 
 ```mermaid
